@@ -1,0 +1,2 @@
+PyQt6==6.11.0
+pyobjc-framework-Cocoa==12.2.2
